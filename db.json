@@ -1,7 +1,19 @@
 {
-"profiles": [
-  {"id":1, "name":"Santosh", "age":26},
-  {"id":2, "name":"Sampath", "age":26},
-  {"id":3, "name":"Krishna", "age":49},
-]
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Santosh",
+      "age": 26
+    },
+    {
+      "id": 2,
+      "name": "Sampath",
+      "age": 26
+    },
+    {
+      "id": 3,
+      "name": "Krishna",
+      "age": 49
+    },
+  ]
 }
